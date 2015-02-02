@@ -14,7 +14,7 @@
 ```csv
 18/239192/93905.png,1409468135,285,1635de9ccf8ec5d7e71ce535b72e1a23
 ```
-# ファイル位置
+# URL
 「地理院タイル目録」のURLは、次のとおりです。
 ```
 http://cyberjapandata.gsi.go.jp/xyz/{t}/mokuroku.csv.gz
