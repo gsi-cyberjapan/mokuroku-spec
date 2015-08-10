@@ -7,7 +7,7 @@
 ```csv
 （パス）,（最終更新時刻）,（サイズ）,（MD5SUM）
 ```
-1. 最終更新時刻は、UNIX起算時を整数化したものとしています。
+1. 最終更新時刻(mtime)は、UNIX起算時を整数化したものとしています。
 2. パスからURLへの換算は、http://cyberjapandata.gsi.go.jp/xyz/{t}/（パス） です。
 
 例：http://cyberjapandata.gsi.go.jp/xyz/std/18/239192/93905.png に対する地理院タイル目録のレコードは、次の通りとなります（平成２７年１月現在）。
