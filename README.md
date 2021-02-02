@@ -16,7 +16,7 @@
 # URL
 「地理院タイル目録」のURLは、次のとおりです。
 ```
-http://cyberjapandata.gsi.go.jp/xyz/{t}/mokuroku.csv.gz
+https://cyberjapandata.gsi.go.jp/xyz/{t}/mokuroku.csv.gz
 ```
 
 # 留意点
