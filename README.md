@@ -25,7 +25,7 @@ https://cyberjapandata.gsi.go.jp/xyz/{t}/mokuroku.csv.gz
 - 令和2年12月現在、{t}がstd、pale、englishのみ定期的に更新しております。毎月10日までに公開し、前月末時点の情報が記載されています。
 
 # See Also
-- [地理院タイル目録ベースのダウンローダ](https://github.com/gsi-cyberjapan/qdltc)
+- [地理院タイルダウンロードツール](https://github.com/gsi-cyberjapan/tdlmn)
 
 # 履歴
 地理院タイル目録は、2015年2月4日の第2回地理院地図パートナーネットワーク会議でリリースされました。
